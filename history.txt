@@ -1,0 +1,17 @@
+    1  git init
+    2  git status
+    3  git add .
+    4  git commit -m "Added CSS file and linked it to HTML"
+    5  git status
+    6  git commit -am "Added HTML structure for the product card"
+    7  git commit --amend -m "Add HTML structure for the product card"
+    8  git commit -am "Changed color in CSS"
+    9  git log
+   10  git log --oneline
+   11  git checkout 9c2d046
+   12  git checkout master
+   13  git add .gitignore
+   14  git commit -m "Added .gitignore to exclude unnecessary files"
+   15  git status
+   16  git status
+   17  history > history.txt
